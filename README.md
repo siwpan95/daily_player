@@ -1,5 +1,7 @@
 # 日常视频播放器 (Daily Player)
 
+> 仓库：<https://gitee.com/siwpan/daily_player> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
+
 基于 VLC 的日常视频播放器，支持字幕、播放列表和快捷键。
 
 ## 功能
